@@ -1,0 +1,13 @@
+{
+		"to":"fSpszS6XPyk:APA91bGeEXqX4K4TLAZflzDrcUxP5CxIXxKhd13BGkdbzBpaNyTFXHvkleOurZDuL7_EfkD9OmTdD8mzvTg7bjGFk4lk7EXiuOwlKE3eRmucZzAAC5uPBIupgIUEL8VgsvbuPX-JaXcN",
+		"data":{
+			"key1":"Hello from again server Side",
+			"key2":"Score updates",
+			"key3":"full syca responce"
+		},
+		"notification":{
+			"title":"Title from server",
+			"body":"This is message from server",
+			"image":"https://cdn.pixabay.com/photo/2014/11/14/03/38/news-530220_1280.jpg"
+		}
+}
